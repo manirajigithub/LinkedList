@@ -1,4 +1,4 @@
-﻿namespace LinkedList
+namespace LinkedList
 {
     class Program
     {
