@@ -2,6 +2,8 @@
 {
     class Program
     {
+        private static object linklist;
+
         static void Main(string[] args)
         {
             
@@ -9,7 +11,7 @@
             linklist1.Add(56);
             linklist1.Add(70);
             linklist1.Display();
-            linklist.Insert(2, 30);
+            linklist1.Insert(2, 30);
         }
     }
 }
