@@ -1,4 +1,4 @@
-﻿namespace LinkedListUC6
+namespace LinkedListUC6
 {
     class Program
     {
