@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\bin\Debug\net6.0\LinkedListUC6.exe
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\bin\Debug\net6.0\LinkedListUC6.deps.json
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\bin\Debug\net6.0\LinkedListUC6.runtimeconfig.json
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\bin\Debug\net6.0\LinkedListUC6.dll
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\bin\Debug\net6.0\LinkedListUC6.pdb
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\obj\Debug\net6.0\LinkedListUC6.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\obj\Debug\net6.0\LinkedListUC6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\obj\Debug\net6.0\LinkedListUC6.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\obj\Debug\net6.0\LinkedListUC6.AssemblyInfo.cs
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\obj\Debug\net6.0\LinkedListUC6.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\obj\Debug\net6.0\LinkedListUC6.dll
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\obj\Debug\net6.0\refint\LinkedListUC6.dll
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\obj\Debug\net6.0\LinkedListUC6.pdb
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\obj\Debug\net6.0\LinkedListUC6.genruntimeconfig.cache
+C:\Users\mani1\source\repos\LinkedList\LinkedListUC6\obj\Debug\net6.0\ref\LinkedListUC6.dll
