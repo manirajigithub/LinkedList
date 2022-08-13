@@ -1,4 +1,4 @@
-﻿namespace LinkedListUC5
+namespace LinkedListUC5
 {
     class Program
     {
