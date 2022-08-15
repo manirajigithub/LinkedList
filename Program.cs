@@ -1,4 +1,6 @@
-﻿namespace LinkedListUC9
+﻿using LinkedListUC10;
+
+namespace LinkedListUC9
 {
     internal class Program
     {
